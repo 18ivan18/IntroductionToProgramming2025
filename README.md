@@ -11,3 +11,7 @@
 ###### :three: If statements and ternary operator
 
 ###### :four: For, while, do while
+
+###### :five: Arrays
+
+###### :six: Functions
